@@ -19,8 +19,8 @@ yarn dev
 
 ## Tecnologias
 
-React
-Chakra-UI
+React,
+Chakra-UI,
 NUI
 
 Abra [http://localhost:3000](http://localhost:3000).
