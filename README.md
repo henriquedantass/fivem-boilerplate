@@ -16,4 +16,11 @@ npm run dev
 yarn dev
 ```
 
+
+## Tecnologias
+
+React
+Chakra-UI
+NUI
+
 Abra [http://localhost:3000](http://localhost:3000).
